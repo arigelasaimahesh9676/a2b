@@ -1,5 +1,3 @@
  this is new file
 
  nana git
-
- this line will delete
