@@ -1,5 +1,3 @@
  this is new file
 
  nana git
-
- this is the revert , this file will delete
